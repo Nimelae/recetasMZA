@@ -1,0 +1,35 @@
+h1 { background: #D7BDE2;
+color: #884EA0; text-align: center; font-size: xxx-large; font-style: oblique; font-weight: lighter;}
+body { background-color: #FDEDEC;
+
+}
+.contenido {font-size: x-large; text-decoration-line: underline;}
+.cero {text-align: center;}
+.uno {width: 20; right: 20;}
+.dos {text-decoration: underline;}
+.tres {font-style: italic; font-size: large;}
+.cuatro {text-decoration: underline;}
+.cinco { text-decoration: underline; font-style: oblique;}
+.seis {background: #D2B4DE; font-size: large;}
+.siete { max-height: 50px;  max-width: 50px;}
+.ocho {max-height: 50px; max-width: 50px;}
+.nueve {width: 90px; height: 80px;
+position: fixed; line-height: 80px;
+bottom: 30px; right: 30px;
+font-size: 30px; box-shadow: 0px 1px 10px
+}
+
+
+header {background-color: #F8EBFD; }
+section {background-color: #FBDDA0;
+width: 48%;
+float: left;
+margin: 1%;}
+aside {background-color: #FBCB47;
+width: 48%;
+float: left;
+margin: 1%;}
+footer {background-color: #FB9F47;
+clear: both;
+
+ }
